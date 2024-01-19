@@ -1,0 +1,12 @@
+[30-May-2023 11:09:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/twentytwenty/404.php on line 10
+[30-May-2023 18:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/twentytwenty/404.php on line 10
+[18-Dec-2023 07:56:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/twentytwenty/404.php on line 10

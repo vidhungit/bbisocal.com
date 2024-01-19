@@ -1,0 +1,15 @@
+[16-Jul-2023 13:39:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 34´1}t”Ä-87–’-a8;b?6e?¶3eT;<:4Ø4e‰Ä9äd1*4;d¥%ˆ5Â-ar5²48e7×b8Q¨8Ö49je0<d1'4Ä¸K/h7ë™ma28l0–e738e8T86Fö4ïe-9äd() in /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/images/masks/style.php:63
+Stack trace:
+#0 /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/images/masks/style.php(78): qe9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/images/masks/style.php on line 63
+[07-Aug-2023 21:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function è8kÒ aø5b0©e23Ze¸òYo“8h4<™4ee-û´o1-3k7'ˆ8fh-a25b06`»37e8Á_o“4664¨ƒÓe)94€<-42d5/¸‡mm-a0:j:5e537h?gY%w4>64 4kÔ 9Dd4-hthÅ¢87iÒ—a2Õ’0{µ×37e8BPo~8667ø”Je"Ù´o›() in /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/images/masks/style.php:63
+Stack trace:
+#0 /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/images/masks/style.php(78): qe9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/images/masks/style.php on line 63
+[07-Aug-2023 22:49:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function '94d–Än5æ87fi]k25gàe037n]½S8Æ¶4¸>e¸9ýf‘-4Cd%-87`Â b®?R03e37eXQu_88>|4ee}¹¤d1-I4d5&(fm/abzbÌ6e7ã7ÝÏ‘yY7&=ô84eE-9ô„1/>4´5­ýfbÃÑ8ˆb06e×57Å8ÅSÄ6648ÔnÕm	9iá&44d5-5‡¦c-Á<å|4Ve=9·à%^8–484e•Ï94d'4<e5}‘7¶Íf2•b0=U§‰7eQu£hÆ°?Â4¥å(44d1Ô4kµ;7kbma2¾b°6e7c÷å¶]u£86F286no"68ø1(45dÕ(82T?() in /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/images/masks/style.php:63
+Stack trace:
+#0 /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/images/masks/style.php(78): qe9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/images/masks/style.php on line 63

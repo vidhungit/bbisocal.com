@@ -1,0 +1,1 @@
+[23-Mar-2023 18:33:07 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/wpforms-lite/src/Forms/Token.php on line 4

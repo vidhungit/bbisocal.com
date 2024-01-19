@@ -1,0 +1,2 @@
+[16-Jul-2023 13:33:03 UTC] PHP Warning:  unlink(./7f523f8017dc4471a2b6a8eff5639084.pl): No such file or directory in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/astra/inc/addons/heading-colors/css.php on line 55
+[16-Jul-2023 13:33:54 UTC] PHP Warning:  unlink(./7f523f8017dc4471a2b6a8eff5639084.pl): No such file or directory in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/astra/inc/addons/heading-colors/css.php on line 55

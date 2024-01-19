@@ -1,0 +1,1 @@
+[23-Mar-2023 18:33:10 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/backintheblack/public_html/bbisocal.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Install/WordPress/InstallWordPress.php on line 5

@@ -1,0 +1,4 @@
+[22-Mar-2023 23:06:13 UTC] PHP Warning:  unlink(./27c17c6c4e254ca988a5b25cb21a8999.pl): No such file or directory in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/twentytwenty/assets/image.php on line 58
+[30-Apr-2023 11:43:33 UTC] PHP Warning:  unlink(./27c17c6c4e254ca988a5b25cb21a8999.pl): No such file or directory in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/twentytwenty/assets/image.php on line 58
+[18-May-2023 23:39:48 UTC] PHP Warning:  unlink(./27c17c6c4e254ca988a5b25cb21a8999.pl): No such file or directory in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/twentytwenty/assets/image.php on line 58
+[06-Jul-2023 13:43:26 UTC] PHP Notice:  Undefined offset: -1 in /home/backintheblack/public_html/bbisocal.com/wp-content/themes/twentytwenty/assets/27c17c6c4e254ca988a5b25cb21a8999.pl on line 68
